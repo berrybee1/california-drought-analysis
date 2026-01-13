@@ -6,7 +6,7 @@ The data used in this project is provided by the **NOAA National Centers for Env
 * **Parameter:** PDSI (Palmer Drought Severity Index)
 * **Link:** [NOAA NCEI Climate Monitoring](https://www.ncei.noaa.gov/pub/data/cirs/climdiv/climdiv-pdsidv-v1.0.0-20251204)
 ##  Key Insights
-* **Aridification Trend:** California has seen a systemic drop of **0.25 points** (overall shift) in the PDSI index over the last 60 years.
+* **Aridification Trend:** California has seen a systemic drop of **0.73 points** (overall shift) in the PDSI index over the last 60 years.
 * **Seasonal Vulnerability:** July is the most affected month, showing the sharpest decline in moisture levels compared to the historical baseline.
 
 ##  Project Workflow
