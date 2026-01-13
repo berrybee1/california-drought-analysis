@@ -15,4 +15,4 @@ The data used in this project is provided by the **NOAA National Centers for Env
 3. **Visualization:** Time-series with rolling averages, comparative seasonal bar charts, and record-high drought annotations.
 
 ##  How to Use
-Run the `California_drought.ipynb` in Google Colab or locally.
+Run the `California_drought_analysis.ipynb` in Google Colab or locally.
